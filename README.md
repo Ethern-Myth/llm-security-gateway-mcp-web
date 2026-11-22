@@ -1,5 +1,7 @@
 # LLM Security Gateway
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/ethern-myth-llm-security-gateway-mcp-web-19gljt)](https://m8ven.ai/mcp/ethern-myth-llm-security-gateway-mcp-web-19gljt?s=readme)
+
 **An independent security layer for AI agents.**
 
 Designed by **Ethern Myth**.
