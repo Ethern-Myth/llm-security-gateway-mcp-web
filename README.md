@@ -2,6 +2,8 @@
 
 [![M8ven Score](https://m8ven.ai/badge/mcp/ethern-myth-llm-security-gateway-mcp-web-19gljt)](https://m8ven.ai/mcp/ethern-myth-llm-security-gateway-mcp-web-19gljt?s=readme)
 
+[![MCP Badge](https://lobehub.com/badge/mcp/ethern-myth-llm-security-gateway-mcp-web)](https://lobehub.com/mcp/ethern-myth-llm-security-gateway-mcp-web)
+
 **An independent security layer for AI agents.**
 
 Designed by **Ethern Myth**.
